@@ -1,0 +1,13 @@
+/* Custom CSS */
+
+@import url('https://fonts.googleapis.com/css?family=Abel|Barlow|Exo+2|Maven+Pro|Montserrat|Rajdhani|Source+Sans+Pro|Titillium+Web&display=swap');
+
+.headshot {
+  background-image: url(../img/dani.jpg);
+  min-height: 500px;
+  height: 100%;
+  margin-top: 50px;
+  background-repeat: no-repeat;
+  background-position: center;
+  object-fit: contain;
+}
